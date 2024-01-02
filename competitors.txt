@@ -1,0 +1,3 @@
+Sohaib,10
+Ahmed,201
+Ali,110
